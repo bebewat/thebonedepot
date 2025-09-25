@@ -1,0 +1,7 @@
+discord.py>=2.4.0,<3.0.0
+python-dotenv>=1.0.0
+aiomysql>=0.2.0
+fastapi>=0.112.0
+uvicorn>=0.30.6
+requests>=2.32.4
+audioop-lts>=0.2.1
